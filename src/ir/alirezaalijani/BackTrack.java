@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
  * @email alirezaalijani.ir@gmail.com
  * @date 12/16/2022
  */
-public class BackTrackApp {
+public class BackTrack {
 
     public static int maxValue = 0;
 

@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
  * @email alirezaalijani.ir@gmail.com
  * @date 12/16/2022
  */
-public class DynamicApp {
+public class Dynamic {
 
     public static int max(int a, int b) {
         return Math.max(a, b);
